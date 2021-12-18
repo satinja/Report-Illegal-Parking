@@ -3,15 +3,13 @@ In developing nations like India, parking is one of the biggest challenges in Ur
 
 In the following image, one can easily identify which cars are parked illegally. The illegally parked Cars have created a bottleneck to the smooth traffic.
 
+<div align="center">
+    <img src="sample_images/four_wheeler_parking.png" width="60%">
+</div>
 
 				Pic Credit: tribuneindia.com
 
 The illegal parking is not just limited to 4 wheelers- 2 wheelers, trucks, lorries, tractors and all kinds of vehicles are found illegally parked.
-
-See the following image for other types of illegal parking:
-
-
-
 
 Traffic police and Nagar Palika are trying to figure out a viable solution for this problem.
 Some of the existing solutions are there but they require a lot of effort from the government body.
