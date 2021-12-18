@@ -42,7 +42,7 @@ Some of the existing solutions are there but they require a lot of effort from t
 1. If someone is parking a vehicle at an illegal spot then  they should pay a fine per hour to avoid getting a challan.
 1. IPR should not be able to report a vehicle with special status turned on.
 
-Non-Functional Requirements
+# Non-Functional Requirements
 1. The reporting should be consistent and error free.
 1. The data related to the report should be persistent.
 1. Create a list of spots, roads, parks, grounds etc where parking slots are created.
